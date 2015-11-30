@@ -1,0 +1,53 @@
+.mainSection {
+    width: 400px;
+    margin: 100px auto;
+    display: block;
+    border-radius: 10px;
+    background-image: url("../../../../../WebstormProjects/angularpeerproject/server/public/assets/transparentBG.png");
+    color: white;
+}
+
+body {
+    background-image: url("./statueofLib.jpg");
+}
+
+button {
+    width:150px;
+    margin: 0 auto;
+    display: block;
+
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+.candidateList ul {
+    display:inline-block;
+}
+
+.candidateList li {
+    font-size: 12px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    list-style: none;
+    padding:0 30%;
+}
